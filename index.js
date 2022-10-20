@@ -14,10 +14,6 @@ app.use(cors({
 }));
 
 // Fin configuracion cors
-
-
-
-
 const BASE_ROUTE = 'https://api.mercadolibre.com'
 
 const PORT = 3031
